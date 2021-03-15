@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-I'm a developer living in Alta, Norway <img src="https://user-images.githubusercontent.com/11887211/111134452-ed154d80-857b-11eb-8841-4ee91fd5cc3d.png" width="20">
+I'm **Emil Orvik Kollstrøm**. I'm a developer living in Alta, Norway <img src="https://user-images.githubusercontent.com/11887211/111134452-ed154d80-857b-11eb-8841-4ee91fd5cc3d.png" width="20">
+
+Right now I'm learning `Rust`, but I also really like programming in `Kotlin`. 
+
+
+#### Find me ⬇️
+
+🏠 Website: [kollstrom.net](http://kollstrom.net)
+
+🐦 Twitter: [@kollstrom](https://twitter.com/kollstrom)
+
+📷 Instagram: [@kollstrom](https://www.instagram.com/kollstrom/)
 
 
 <!--
