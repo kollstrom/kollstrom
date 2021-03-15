@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a developer living in Alta ![alta-norway-1](https://user-images.githubusercontent.com/11887211/111134452-ed154d80-857b-11eb-8841-4ee91fd5cc3d.png | width=10)
+
+
 <!--
 **kollstrom/kollstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
