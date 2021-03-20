@@ -2,7 +2,7 @@
 
 I'm **Emil Orvik Kollstrøm**. I'm a developer living in Alta, Norway <img src="https://user-images.githubusercontent.com/11887211/111134452-ed154d80-857b-11eb-8841-4ee91fd5cc3d.png" width="20">
 
-Right now I'm learning `Rust`, but I also really like programming in `Kotlin`. 
+Right now I'm learning `Rust` and `Go`, but I also really like programming in `Kotlin`. 
 
 
 #### Find me ⬇️
